@@ -1,0 +1,2 @@
+class DiscordImage < ApplicationRecord
+end
